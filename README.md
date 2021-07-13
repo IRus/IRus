@@ -2,3 +2,4 @@ I'm happy to introduce myself and spread my interests. Hope you find something i
 
 - 🔥 [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java
 - 💛 [Heapy/komodo](https://github.com/Heapy/komodo) - Kotlin Modular Framework. Take back control of your application!
+- 🚀 [Heapy/Komodo-CRM](https://github.com/Heapy/Komodo-CRM) –  Life and collaboration assistant
